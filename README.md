@@ -32,13 +32,13 @@ __Set up the MySQL database:__
 Create a database named reminders_db.
 Ensure your MySQL credentials are correctly set in the script.
 
-# _Run the application:_
+__Run the application:__
 python daily_reminder.py
 
-# _Usage_
+__Usage__
 Enter a task name and a reminder time in HH:MM format.
 Click Add Reminder to save it.
 The system will alert you when it's time for the task.
 
-# _License_
+# License
 This project is open-source and available under the MIT License.
