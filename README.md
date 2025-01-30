@@ -25,10 +25,10 @@ MySQL Server
 git clone https://github.com/your-repo/daily-reminder.git
 cd daily-reminder
 
-# _Install dependencies:_
+ __Install dependencies:__
 pip install pymysql
 
-# _Set up the MySQL database:_
+__Set up the MySQL database:__
 Create a database named reminders_db.
 Ensure your MySQL credentials are correctly set in the script.
 
