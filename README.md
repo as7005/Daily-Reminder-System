@@ -21,7 +21,7 @@ MySQL Server
 
 # Installation
 
-# _Clone the repository:_
+__Clone the repository:__
 git clone https://github.com/your-repo/daily-reminder.git
 cd daily-reminder
 
