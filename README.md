@@ -19,9 +19,9 @@ Tkinter (Included with Python)
 pymysql (for MySQL connectivity)
 MySQL Server
 
-#Installation
+# Installation
 
-_Clone the repository:_
+#_Clone the repository:_# 
 git clone https://github.com/your-repo/daily-reminder.git
 cd daily-reminder
 
